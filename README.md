@@ -1,26 +1,27 @@
-UI Dashboard Project
+UI Dashboard Live Demo
 
-Overview
+This repository contains the production build of the UI Dashboard project deployed with GitHub Pages.
 
-A responsive dashboard interface built to practice frontend development and modern UI design principles.
-
-Features
-
-- Responsive design
-- Dashboard layout
-- Modern user interface
-- Mobile-friendly experience
-
-Technologies Used
-
-- HTML
-- CSS
-- JavaScript
-
-Live Demo
+🌐 Live Website
 
 https://mariamogunbode.github.io/ui-dashboard-project/
 
-GitHub Repository
+📁 Source Code
 
-https://github.com/mariamogunbode/ui-dashboard-project
+The complete React source code for this project can be found here:
+
+https://github.com/mariamogunbode/ui-dashboard
+
+🛠️ Built With
+
+- React
+- JavaScript
+- CSS
+- Html
+- Vite
+
+👩‍💻 Author
+
+Mariam Ogunbode
+
+GitHub: https://github.com/mariamogunbode
